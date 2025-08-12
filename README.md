@@ -2,6 +2,8 @@
 
 Guidance provides tools for DMs that won't get lost in a browser tab.
 
+[Screenshots](https://imgur.com/a/6pxei2L)
+
 ## Features
 
 - **Initiative Tracker**: Manage combat encounters with ease
@@ -29,3 +31,4 @@ This software is proprietary. All rights reserved.
 ---
 
 **Note**: This repository contains only release files. The source code is maintained in a private repository.
+
